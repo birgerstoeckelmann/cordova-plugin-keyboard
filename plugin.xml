@@ -27,7 +27,7 @@
     </platform>
 
     <!-- android -->
-    <platform name="android">
+    <!--<platform name="android">
         <config-file target="config.xml" parent="/*">
             <feature name="Keyboard">
                 <param name="android-package" value="org.apache.cordova.labs.keyboard.Keyboard" onload="true" />
@@ -35,6 +35,6 @@
         </config-file>
 
         <source-file src="src/android/Keyboard.java" target-dir="src/org/apache/cordova/labs/keyboard" />
-    </platform>
+    </platform>-->
 
 </plugin>
